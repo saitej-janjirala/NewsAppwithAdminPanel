@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Iniesta news app</string>
+    <string name="defalut_web_client_id">294782411331-14nqbge31u0gptj3actg1dtslmhvoiae.apps.googleusercontent.com</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="forgot_password"><u>Forgot Password?</u></string>
+    <string name="don_t_have_an_account_signup"><u>Don\'t have an account signup?</u></string>
+    <string name="login_as_admin"><u>Login as Admin</u></string>
+</resources>

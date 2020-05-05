@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "205628270293",
+    "firebase_url": "https://iniesta-news-app-17e33.firebaseio.com",
+    "project_id": "iniesta-news-app-17e33",
+    "storage_bucket": "iniesta-news-app-17e33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205628270293:android:d07f50188c3e1b1911245c",
+        "android_client_info": {
+          "package_name": "com.saitejajanjirala.iniestanewsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205628270293-nh4vqfs08ei2r2e03p49o7i1im60egpm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saitejajanjirala.iniestanewsapp",
+            "certificate_hash": "d1a34a25fe4021dcf3c2bf524717ec974f420594"
+          }
+        },
+        {
+          "client_id": "205628270293-svun7f4cct3us5c09f62c7cr7oc8gcca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLV_MRfqkFG3PvZvjg6rzFkFSZMst2xGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205628270293-svun7f4cct3us5c09f62c7cr7oc8gcca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
