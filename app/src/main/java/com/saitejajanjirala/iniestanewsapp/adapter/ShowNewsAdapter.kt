@@ -18,9 +18,7 @@ class ShowNewsAdapter(val context: Context, val arraylist:ArrayList<Imageinfo>) 
         val recyclerView:RecyclerView=view.findViewById(R.id.recyclerviewinside)
         val date:TextView=view.findViewById(R.id.datetext)
         val information:TextView=view.findViewById(R.id.information)
-
     }
-
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ShowNewsViewHolder {
         val view=LayoutInflater.from(context).inflate(R.layout.newsitem,parent,false)
         return ShowNewsViewHolder(view)
